@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+@theme inline {
+  --color-primary: #2563eb;
+  --color-primary-dark: #1d4ed8;
+  --color-accent: #7c3aed;
+}
+
+body {
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+}

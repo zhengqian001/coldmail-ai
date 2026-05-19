@@ -1,0 +1,18 @@
+# env files
+.env
+.env.local
+.env.production
+
+# build
+.next/
+node_modules/
+dist/
+
+# misc
+.DS_Store
+*.log
+npm-debug.log*
+
+# IDE
+.vscode/
+.idea/
